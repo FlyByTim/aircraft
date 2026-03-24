@@ -189,6 +189,25 @@
       ]
     },
     {
+      // lineUpChecklistA32NX ====================================
+      "name": "LINE-UP",
+      "flightphase": 2,
+      "items": [
+        {
+          "item": "T.O. RWY",
+          "result": "_____ (BOTH)"
+        },
+        {
+          "item": "TCAS",
+          "result": "AS RQRD"
+        },
+        {
+          "item": "PACKS 1 & 2",
+          "result": "AS RQRD"
+        }
+      ]
+    },
+    {
       // departureChangeChecklistA32NX ====================================
       "name": "<< DEPARTURE CHANGE >>",
       "flightphase": 2,
@@ -211,25 +230,6 @@
           "item": "FCU ALT",
           "action": "____",
           "result": "____ SET"
-        }
-      ]
-    },
-    {
-      // lineUpChecklistA32NX ====================================
-      "name": "LINE-UP",
-      "flightphase": 2,
-      "items": [
-        {
-          "item": "T.O. RWY",
-          "result": "_____ (BOTH)"
-        },
-        {
-          "item": "TCAS",
-          "result": "AS RQRD"
-        },
-        {
-          "item": "PACKS 1 & 2",
-          "result": "AS RQRD"
         }
       ]
     },
