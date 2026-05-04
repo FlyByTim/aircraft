@@ -123,6 +123,7 @@
 1. [A380X/FLIGHT MODEL] Fight model update  - @donstim (donbikes)
 1. [A32NX/FMS] Update layout of DIR TO page to reflect HW H4 - @BlueberryKing (BlueberryKing)
 1. [A32NX/FE] Add pitch and low energy warnings, improve VCTrend computation - @lukecologne (luke)
+1. [A32NX/FWS] Add `ELEC APU GEN FAULT` master caution and APU GEN fault light - @FozzieHi (fozzie)
 
 ## 0.14.0
 
